@@ -2,22 +2,22 @@
 contains c programmes for daily practice.
 
 ## Installing an editor
-  - Installing Sublime Text in Ubuntu  
+Installing Sublime Text in Ubuntu  
 	[Installing sublime with terminal](https://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3)
 
 
 ### References
- 	- [C programming.net](http://www.cprogramming.com/tutorial/c-tutorial.html)
- 	- [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
- 	- [Learn C](http://www.learn-c.org/) 
+	[C programming.net](http://www.cprogramming.com/tutorial/c-tutorial.html)
+	[Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
+	[Learn C](http://www.learn-c.org/) 
 
 ### Pattern Exercises 
-	- [Pyramic Patterns](http://scanftree.com/programs/c/programs-to-print-pyramid-patterns-in-c-part-1/)
-	- [Star Patterns in C](http://www.codeforwin.in/2015/07/star-patterns-program-in-c.html)
+	[Pyramic Patterns](http://scanftree.com/programs/c/programs-to-print-pyramid-patterns-in-c-part-1/)
+	[Star Patterns in C](http://www.codeforwin.in/2015/07/star-patterns-program-in-c.html)
 
 ### Some Books
-	- [The C book](http://publications.gbdirect.co.uk/c_book/thecbook.pdf)
-	- [C text](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf)
+	[The C book](http://publications.gbdirect.co.uk/c_book/thecbook.pdf)
+	[C text](http://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf)
 
 
 
