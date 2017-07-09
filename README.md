@@ -6,7 +6,7 @@ Installing Sublime Text in Ubuntu
 	[Installing sublime with terminal](https://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3)
 
 ### Prime Numbers
-[Prime Numbers Wiki](https://en.wikipedia.org/wiki/Prime_number)
+[Prime Numbers Wiki](https://en.wikipedia.org/wiki/Prime_number)  
 [Prime number facts and tables](https://www.factmonster.com/math/numbers/prime-numbers-facts-examples-table-all-1000)
 
 ### References
