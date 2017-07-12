@@ -11,9 +11,13 @@
 
 int byaj(int principle, int rate, int time){
 
+	// Study widening and shortening of Units.
+
 	float byaj;
 
-	byaj = ((p*r*t)*1.0)/100;
+	byaj = ((principle*rate)*time);
+
+	byaj = (byaj*1.0)/100;
 
 	return byaj;
 
@@ -24,8 +28,6 @@ int main()
 {
 	int p=10, r=5, t=1;
 
-	byaj(p, r, t);
-
-	printf("%f\n", byaj);
+	printf("%d\n", byaj(p, r, t));
 
 }

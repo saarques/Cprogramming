@@ -24,6 +24,9 @@
 */
 
 #include<stdio.h>
+// writing function prototypes 
+void another_function();
+int one_more(int value1, int value2, int value3);
 
 int gatsa(){
 
@@ -38,5 +41,21 @@ int main(){
 	gatsa_return = gatsa();
 	
 	printf("%d\n",gatsa_return);
+
+	another_function();
+
+	printf("%d\n", one_more(1, 2, 3));
+
+}
+
+void another_function(){
+
+	printf("Just another function\n");
+
+}
+
+int one_more(int value1, int value2, int value3){
+
+	return value1 + value2 + value3; //Study about return statements, How they works ??	
 
 }
