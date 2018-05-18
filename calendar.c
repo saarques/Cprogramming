@@ -5,23 +5,23 @@ int main(){
 	scanf("%d",&a);
 	b=a%4;
 	switch(b){
-	case0:	if(a%4==0)
+	case 0:	if(a%4==0)
 			count+=2;
-	case1:	if(a%4==1)
+	case 1:	if(a%4==1)
 			count+=1;
-	case2:	if(a%4==2)
+	case 2:	if(a%4==2)
 			count+=2;
-	case3:	if(a%4==3)
+	case 3:	if(a%4==3)
 			count+=3;
 
 	}
 	switch(count){
-	case0:	printf("Monday");
-	case1:	printf("Tuesday");
-	case2:	printf("Wednesday");
-	case3:	printf("Thursday");
-	case4:	printf("Friday");
-	case5:	printf("Saturday");
-	case6:	printf("Sunday");
+	case 0:	printf("Monday");
+	case 1:	printf("Tuesday");
+	case 2:	printf("Wednesday");
+	case 3:	printf("Thursday");
+	case 4:	printf("Friday");
+	case 5:	printf("Saturday");
+	case 6:	printf("Sunday");
 	}
 }
