@@ -1,5 +1,5 @@
 # Cprogramming
-Contains C programmes for daily practice.
+Contains C programs for daily practice.
 
 ## Installing an editor
 Installing Sublime Text in Ubuntu  
